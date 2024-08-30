@@ -1,0 +1,6 @@
+[submodule "themes/Agnes"]
+	path = themes/Agnes
+	url = https://github.com/dchucks/agnes-hugo-theme.git
+[submodule "themes/Hugo-Universal-Theme"]
+	path = themes/Hugo-Universal-Theme
+	url = https://github.com/devcows/hugo-universal-theme
